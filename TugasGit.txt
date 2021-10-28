@@ -1,0 +1,7 @@
+git add sudah
+git commit sudah
+git push sudah
+git revert sudah
+git reset sudah dan hilang semua
+tambah .gitignore juga sudah di file config
+git checkout sudah
